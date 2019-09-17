@@ -22,16 +22,6 @@
 
  
 
-| Items | Status | 
-|-----|--------|
-| 데이터크롤링| [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/nuxeo-master)](https://qa.nuxeo.org/jenkins/job/master/job/nuxeo-master)|
-| SQL / PLSQL | [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/nuxeo-master)](https://qa.nuxeo.org/jenkins/job/master/job/nuxeo-master)|
-| MVC 패턴 | [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/nuxeo-master)](https://qa.nuxeo.org/jenkins/job/master/job/nuxeo-master)|
-| 웹서비스 / 비동기| [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/nuxeo-master)](https://qa.nuxeo.org/jenkins/job/master/job/nuxeo-master)|
-|Google Charts|[![Test Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/FT-nuxeo-master-funkload-cap-tomcat-multidb)](https://qa.nuxeo.org/jenkins/job/master/job/FT-nuxeo-master-funkload-cap-tomcat-multidb)
-
-
-
 # Built with
 ```
 * RDBMS : Oracle
